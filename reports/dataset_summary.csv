@@ -1,0 +1,7 @@
+Metric,Value
+Total Transactions,284807.0
+Legitimate Transactions,284315.0
+Fraudulent Transactions,492.0
+Fraud Percentage,0.1727
+Duplicate Rows,1081.0
+Missing Values,0.0

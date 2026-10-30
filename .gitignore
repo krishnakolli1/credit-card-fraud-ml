@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+
+# Dataset - do not upload large raw data
+data/*.csv
+
+# Generated model files
+models/*.joblib
+
+# Generated charts and reports
